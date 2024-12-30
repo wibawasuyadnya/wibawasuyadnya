@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wibawasuyadnya&layout=compact) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=wibawasuyadnya&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m @wibawasuyadnya
 - 👀 I’m interested in Design, UI and All about Front end side software engineering
