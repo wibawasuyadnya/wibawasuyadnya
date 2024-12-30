@@ -7,6 +7,7 @@
 - 👀 I’m interested in Design, UI and All about Front end side software engineering
 - 🌱 I’m currently working on Digital Agencies for Pharmacy Company located in UK serving user across Europe & Asian Region
 - 💞️ I’m Open up to collaborate on other project
+- 📑 Now I'm mainly using GitLab and Working on GitHub Private repos because I considered my client privacy to store their codebase and it's the reason why my stats are low on github
 - 📫 contact me here at <a target="_blank" href="mailto:dekgusnfs@gmail.com"> dekgusnfs@gmail.com </a> if theres any further question or want to collaborate
 
 <!---
