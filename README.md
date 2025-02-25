@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @wibawasuyadnya
 - 👀 I’m interested on all about Front end side software engineering
-- 🌱 I’m currently working on Digital Agencies for UK Pharmacy Company, Social Media and Crypto Trader Platform
+- 🌱 I’m currently working on Digital Agencies for UK Pharmacy Company, Social Media and Crypto Trading Platform
 - 💞️ I’m Open up to collaborate on other project
 - 📑 Now I'm mainly using GitLab and Working on GitHub Private repos because I considered my client privacy to store their codebase and it's the reason why my stats are low on github
 - 📫 contact me here at <a target="_blank" href="mailto:dekgusnfs@gmail.com"> dekgusnfs@gmail.com </a> if theres any further question or want to collaborate
