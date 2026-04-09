@@ -4,10 +4,7 @@
 - 📑 Now I'm mainly using GitLab and Working on GitHub Private repos because I considered my client privacy to store their codebase and it's the reason why my stats are low on github
 - 📫 contact me here at <a target="_blank" href="mailto:dekgusnfs@gmail.com"> dekgusnfs@gmail.com </a> if theres any further question or want to collaborate
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=%40wibawasuyadnya&theme=swift&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=%40wibawasuyadnya&theme=swift&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
   <h3>🔥 Streak Stats</h3>
 
