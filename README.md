@@ -4,11 +4,11 @@
 - 📑 Now I'm mainly using GitLab and Working on GitHub Private repos because I considered my client privacy to store their codebase and it's the reason why my stats are low on github
 - 📫 contact me here at <a target="_blank" href="mailto:dekgusnfs@gmail.com"> dekgusnfs@gmail.com </a> if theres any further question or want to collaborate
   <br />
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats - https://github.com/wibawasuyadnya/github-readme-streak-stats -->
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- https://github.com/wibawasuyadnya/github-readme-stats -->
   
   <a href="https://github.com/wibawasuyadnya/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
