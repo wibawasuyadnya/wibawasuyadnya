@@ -1,9 +1,3 @@
-  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=wibawasuyadnya&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' /> 
-
-<!-- <br />
-<br /> -->
-
-
 - 👋 Hi, I’m @wibawasuyadnya
 - 👀 I’m interested on all about Front end side software engineering
 - 💞️ I’m Open up to collaborate on other project
