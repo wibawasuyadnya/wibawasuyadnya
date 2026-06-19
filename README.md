@@ -16,8 +16,8 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="wibawasuyadnya's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=wibawasuyadnya&theme=swift&hide_border=true&short_numbers=true" height="192px"/> 
     </a> -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="wibawasuyadnya's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=wibawasuyadnya&langs_count=8&layout=compact&theme=swift&hide_border=true" height="192px"/></a>
-  <br/>
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="wibawasuyadnya's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=wibawasuyadnya&langs_count=8&layout=compact&theme=swift&hide_border=true" height="192px"/></a>
+  <br/> -->
 
 <!---
 wibawasuyadnya/wibawasuyadnya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
